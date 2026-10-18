@@ -6400,6 +6400,3 @@ switch (userInput329)
 }
 
 ```
-🧑‍💻 Ссылка на практическую работу №1 и преподавателя [github](https://github.com/U5er01Task/Fundamentals-of-Algorithmization-and-Programming-2026/tree/main) - [Преподаватель](https://github.com/U5er01Task)
-
----
